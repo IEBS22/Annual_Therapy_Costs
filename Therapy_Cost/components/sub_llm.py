@@ -3,7 +3,7 @@ import numpy as np
 class SubLLM:
     def __init__(self, attributes):
         self.attributes = attributes
-        # load a trained model here
+        # load a trained model
     
     def process(self, data):
         # processing with a random output
